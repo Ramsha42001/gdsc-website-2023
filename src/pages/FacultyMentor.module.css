@@ -1,0 +1,87 @@
+
+
+.upperSection 
+{
+    height: 160px;
+    
+}
+
+.midSection 
+{
+    height: 434px;
+    width: 100vw;
+    background-color: #4885ED;
+}
+
+
+
+.upperImage 
+{
+    width: 100%;
+    padding: 0px;
+}
+
+.lowerImage 
+{
+    width: 100%;
+}
+
+.imageDiv 
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+.imageBigDiv 
+{
+    border-radius: 50%;
+    width: 220px;
+    height: 220px;
+    border: 2px dashed white;
+}
+
+.heading 
+{
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    font-size: 3rem;
+    color: white;
+    font-weight: bold;
+}
+
+.imageArea 
+{
+    padding: 3% 0px;
+    margin-left: 50px;
+    display: inline;
+}
+
+p 
+{
+    color: white;
+}
+
+.mentorSection 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.paragraph 
+{
+    padding: 7% 0px;
+    width: 300px;
+    color: white;
+}
+
+.main 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
